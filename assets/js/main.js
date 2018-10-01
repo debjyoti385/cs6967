@@ -136,7 +136,7 @@ function init_lightbox() {
 		// 	});
 		// }
 
-		$window.on('load', init_lightbox);
+		// $window.on('load', init_lightbox);
 
 
 })(jQuery);
